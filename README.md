@@ -1,18 +1,41 @@
-# Sales-Dashboard-Excel
-Interactive Sales Dashboard built using Microsoft Excel.
-# 📊 Sales & Profit Dashboard (Microsoft Excel)
+# 📊 Sales Dashboard (Microsoft Excel)
 
-An interactive Sales & Profit Dashboard built in Microsoft Excel using Pivot Tables, Pivot Charts, Slicers, and Data Visualization techniques.
+An interactive Sales Dashboard built using Microsoft Excel to analyze sales performance, profit trends, customer growth, and regional sales insights.
+
+---
+
+## 📌 Project Overview
+
+This dashboard provides a complete overview of sales data using interactive charts, pivot tables, and slicers. It enables users to analyze sales performance across different categories, states, and years.
+
+---
+
+## 🚀 Features
+
+- 📈 Monthly Sales Analysis
+- 💰 Profit Analysis by Year
+- 📦 Sales by Category
+- 👥 Customer Count by Year
+- 🗺️ Sales by State
+- 🎛️ Interactive Slicers
+- 📊 Pivot Tables & Pivot Charts
+- 📉 Dynamic Dashboard
+
+---
+
+## 🛠 Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- Data Cleaning
+- Data Visualization
 
 ---
 
 # 📸 Dashboard Preview
-
-## Dashboard Overview
-
-![Dashboard Overview](Dashboard-Overview.png)
-
----
 
 ## Sales by Month
 
@@ -44,38 +67,25 @@ An interactive Sales & Profit Dashboard built in Microsoft Excel using Pivot Tab
 
 ---
 
-# 🚀 Features
-
-- Interactive Dashboard
-- Dynamic Pivot Tables
-- Pivot Charts
-- Monthly Sales Analysis
-- Yearly Profit Analysis
-- Sales by Category
-- Customer Count Analysis
-- State-wise Sales Analysis
-- Slicers & Filters
-- KPI Cards
-
----
-
-# 🛠 Tools Used
-
-- Microsoft Excel 365
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Conditional Formatting
-- Data Cleaning
-- Dashboard Design
-
----
-
-# 📂 Files
+## 📂 Files Included
 
 - Sales Dashboard.xlsx
-- Dashboard Screenshots
+- README.md
+- Dashboard Images
 
 ---
 
-⭐ If you like this project, don't forget to star this repository.
+## 💡 Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Dashboard Design
+- Business Intelligence
+- Excel Reporting
+- Data Visualization
+
+---
+
+## ⭐ Author
+
+**Kartik Borikar**
