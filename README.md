@@ -45,27 +45,32 @@ This dashboard provides a complete overview of sales data using interactive char
 
 ## Profit by Year
 
-![Profit by Year](Profit-by-Year.png)
+![Profit by Year](Profit by Year.png)
 
 ---
 
 ## Sales by Category
 
-![Sales by Category](Sales-by-Category.png)
+![Sales by Category](Sales by Category.png)
 
 ---
 
 ## Customer Count by Year
 
-![Customer Count](Customer-Count.png)
+![Customer Count by Year](Customer count by Year.png)
 
 ---
 
 ## Sales by State
 
-![Sales by State](Sales-by-State.png)
+![Sales by State](Sales by State.png)
 
 ---
+
+# Top 5 customer profit
+
+![Top 5 Customer Profit](Top 5 customer profit.png)
+
 
 ## 📂 Files Included
 
